@@ -1,0 +1,8 @@
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\ConsoleAppCalc.csproj.AssemblyReference.cache
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\ConsoleAppCalc.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\ConsoleAppCalc.csproj.CoreCompileInputs.cache
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\ConsoleAppCalc.exe.config
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\ConsoleAppCalc.exe
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\bin\Debug\ConsoleAppCalc.pdb
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\ConsoleAppCalc.exe
+D:\Pemrograman\Pertemuan1\ConsoleAppCalc\ConsoleAppCalc\obj\Debug\ConsoleAppCalc.pdb
